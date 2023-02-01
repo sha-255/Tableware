@@ -1,7 +1,7 @@
 # Tableware
-* [**Tableware.bak**](docs/blob/main/Tableware.bak) - бэкап бд SQL.
-* [**Tableware01**](docs/tree/main/Tableware01) - файл проекта.
-* [**DataBase.cs**](docs/blob/main/Tableware01/DataBase.cs) - соединение с БД.
+* [**Tableware.bak**](https://github.com/sha-255/Tableware/blob/main/Tableware.bak) - бэкап бд SQL.
+* [**Tableware01**](https://github.com/sha-255/Tableware/tree/main/Tableware01) - файл проекта.
+* [**DataBase.cs**](https://github.com/sha-255/Tableware/blob/main/Tableware01/DataBase.cs) - соединение с БД.
 каталог с бд указывается на 10 строке
 ```c#
     private static SqlConnection connection = new SqlConnection(
