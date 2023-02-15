@@ -8,3 +8,13 @@ C:\Users\_\source\repos\Tableware01\obj\Debug\Tableware01.csproj.GenerateResourc
 C:\Users\_\source\repos\Tableware01\obj\Debug\Tableware01.csproj.CoreCompileInputs.cache
 C:\Users\_\source\repos\Tableware01\obj\Debug\Tableware01.exe
 C:\Users\_\source\repos\Tableware01\obj\Debug\Tableware01.pdb
+C:\Users\_\Documents\GitHub\Tableware\Tableware01\bin\Debug\Tableware01.exe.config
+C:\Users\_\Documents\GitHub\Tableware\Tableware01\bin\Debug\Tableware01.exe
+C:\Users\_\Documents\GitHub\Tableware\Tableware01\bin\Debug\Tableware01.pdb
+C:\Users\_\Documents\GitHub\Tableware\Tableware01\obj\Debug\Tableware01.csproj.AssemblyReference.cache
+C:\Users\_\Documents\GitHub\Tableware\Tableware01\obj\Debug\Tableware01.csproj.SuggestedBindingRedirects.cache
+C:\Users\_\Documents\GitHub\Tableware\Tableware01\obj\Debug\Tableware01.Properties.Resources.resources
+C:\Users\_\Documents\GitHub\Tableware\Tableware01\obj\Debug\Tableware01.csproj.GenerateResource.cache
+C:\Users\_\Documents\GitHub\Tableware\Tableware01\obj\Debug\Tableware01.csproj.CoreCompileInputs.cache
+C:\Users\_\Documents\GitHub\Tableware\Tableware01\obj\Debug\Tableware01.exe
+C:\Users\_\Documents\GitHub\Tableware\Tableware01\obj\Debug\Tableware01.pdb

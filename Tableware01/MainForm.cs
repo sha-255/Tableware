@@ -1,15 +1,14 @@
-﻿using System.Data;
+﻿/*
+авторизованный клиент и менеджер может ПРОСМАТРИВАТЬ товары, ФОРМИРОВАТЬ и РЕДАКТИРОВАТЬ ЗАКАЗЫ;
+администратор может ДОБАВЛЯТЬ/РЕДАКТИРОВАТЬ/УДАЛЯТЬ ТОВАРЫ.
+*/
+using System.Data;
 using System.Windows.Forms;
 
 namespace Tableware01
 {
     public partial class MainForm : Form
     {
-        /*
-        авторизованный клиент и менеджер может ПРОСМАТРИВАТЬ товары, ФОРМИРОВАТЬ и РЕДАКТИРОВАТЬ ЗАКАЗЫ;
-        администратор может ДОБАВЛЯТЬ/РЕДАКТИРОВАТЬ/УДАЛЯТЬ ТОВАРЫ.
-        */
-
         private DataTable dataTable = DataBase.GetDataTable("select * from Users", "№", "Имя", "Пароль");
         private Registration registrationForm = new Registration();
 
